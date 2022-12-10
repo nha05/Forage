@@ -130,7 +130,6 @@ class AddForageableFragment : Fragment() {
                 updateForageable()
             }
         }
-
     }
 
     private fun isValidEntry() = viewModel.isValidEntry(
