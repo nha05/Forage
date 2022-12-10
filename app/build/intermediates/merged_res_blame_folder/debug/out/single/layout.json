@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android-basics-kotlin-forage-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_forageable_detail.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android-basics-kotlin-forage-app\\app\\src\\main\\res\\layout\\fragment_forageable_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android-basics-kotlin-forage-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android-basics-kotlin-forage-app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android-basics-kotlin-forage-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_forageable_list.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android-basics-kotlin-forage-app\\app\\src\\main\\res\\layout\\fragment_forageable_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android-basics-kotlin-forage-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android-basics-kotlin-forage-app\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android-basics-kotlin-forage-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_add_forageable.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android-basics-kotlin-forage-app\\app\\src\\main\\res\\layout\\fragment_add_forageable.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android-basics-kotlin-forage-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item_forageable.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android-basics-kotlin-forage-app\\app\\src\\main\\res\\layout\\list_item_forageable.xml"
+    }
+]

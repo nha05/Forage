@@ -1,0 +1,43 @@
+com/example/forage/databinding/ListItemForageableBinding.java
+ com.example.forage.databinding.ListItemForageableBinding
+com/example/forage/BR.java
+ com.example.forage.BR
+com/example/forage/databinding/FragmentForageableListBinding.java
+ com.example.forage.databinding.FragmentForageableListBinding
+com/example/forage/databinding/ActivityMainBinding.java
+ com.example.forage.databinding.ActivityMainBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/forage/databinding/FragmentForageableDetailBinding.java
+ com.example.forage.databinding.FragmentForageableDetailBinding
+com/example/forage/data/ForageableDao_Impl.java
+ com.example.forage.data.ForageableDao_Impl
+ com.example.forage.data.ForageableDao_Impl$1
+ com.example.forage.data.ForageableDao_Impl$2
+ com.example.forage.data.ForageableDao_Impl$3
+ com.example.forage.data.ForageableDao_Impl$4
+ com.example.forage.data.ForageableDao_Impl$5
+ com.example.forage.data.ForageableDao_Impl$6
+ com.example.forage.data.ForageableDao_Impl$7
+ com.example.forage.data.ForageableDao_Impl$8
+com/example/forage/databinding/ListItemForageableBindingImpl.java
+ com.example.forage.databinding.ListItemForageableBindingImpl
+com/example/forage/BuildConfig.java
+ com.example.forage.BuildConfig
+com/example/forage/databinding/FragmentAddForageableBinding.java
+ com.example.forage.databinding.FragmentAddForageableBinding
+com/example/forage/databinding/ContentMainBinding.java
+ com.example.forage.databinding.ContentMainBinding
+com/example/forage/DataBinderMapperImpl.java
+ com.example.forage.DataBinderMapperImpl
+ com.example.forage.DataBinderMapperImpl$InnerBrLookup
+ com.example.forage.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/forage/data/ForageDatabase_Impl.java
+ com.example.forage.data.ForageDatabase_Impl
+ com.example.forage.data.ForageDatabase_Impl$1
+com/example/forage/DataBindingTriggerClass.java
+ com.example.forage.DataBindingTriggerClass
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent

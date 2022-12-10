@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.example.forage.ui.ForageableListFragmentDirections","com.example.forage.ui.AddForageableFragmentDirections","com.example.forage.ui.AddForageableFragmentArgs","com.example.forage.ui.ForageableDetailFragmentDirections","com.example.forage.ui.ForageableDetailFragmentArgs"]}]
